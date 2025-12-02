@@ -1,0 +1,3 @@
+yarn add expo-system-ui
+
+tem que ter local.properties com o caminho

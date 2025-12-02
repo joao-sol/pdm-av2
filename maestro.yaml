@@ -1,0 +1,15 @@
+appId: com.anonymous.tsi34aavaliacao02
+---
+- launchApp
+---
+#- extendedWaitUntil:
+ #   visible: "Busca & Filtro"
+  #  timeout: 15000
+  
+- tapOn:
+    id: "input-busca"
+- inputText: "Maçã"
+
+- tapOn:
+    id: "item-1"
+
