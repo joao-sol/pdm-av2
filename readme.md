@@ -10,6 +10,7 @@ Testes E2E servem para testar funcionalidades de ponta a ponta, simulando o cami
 É muito semelhante às macros que podem ser programadas nos desktops, eles seguem todo o fluxo de clicks, inputs e rotas.
 
 🚀 Como Rodar o Projeto e Configurar os Testes
+
 1️⃣ Iniciar o projeto
 yarn start
 
